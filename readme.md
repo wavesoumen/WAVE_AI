@@ -24,5 +24,10 @@
 
 ## Screenshots
 
-![AI1](https://pub-e93d5c9fdf134c89830082377f6df465.r2.dev/2024/11/Generative-AI-edited.webp)
-
+![AI1](https://github.com/wavesoumen/WAVE_AI/blob/main/ml1.png)
+![AI2](https://github.com/wavesoumen/WAVE_AI/blob/main/ml2.png)
+![AI3](https://github.com/wavesoumen/WAVE_AI/blob/main/ml3.png)
+![AI4](https://github.com/wavesoumen/WAVE_AI/blob/main/ml4.png)
+![AI5](https://github.com/wavesoumen/WAVE_AI/blob/main/ml5.png)
+![AI6](https://github.com/wavesoumen/WAVE_AI/blob/main/ml6.png)
+![AI7](https://github.com/wavesoumen/WAVE_AI/blob/main/ml7.png)
